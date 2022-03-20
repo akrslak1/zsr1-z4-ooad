@@ -1,4 +1,4 @@
-# zsr1-z4-ooad
+
 Napisati funkciju DaLiJePalindrom koja za string koji joj je proslijeđen kao parametar
 ispituje da li predstavlja palindrom ili nije i kao rezultat vraća odgovarajuću logičku
 vrijednost true ili false. Palindromima se smatraju riječi ili rečenice koje se isto čitaju
